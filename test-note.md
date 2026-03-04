@@ -7,3 +7,4 @@ The past couple days, I've been mobile developing this project: https://develope
 
 Data science project, mobile application development project, Senior Capstone project and internship.
 Worked a bit on all 4.
+- 08:01:26 Commit 2: This project and mobile development
