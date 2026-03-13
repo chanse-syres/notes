@@ -11,4 +11,8 @@ Worked a bit on all 4.
 
 ## 2026-03-09
 
-Team presentation and data Science project. (=
+Team presentation and data Science project.
+
+## 2026-03-12
+
+Finalizing my data science report
