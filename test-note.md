@@ -16,3 +16,7 @@ Team presentation and data Science project.
 ## 2026-03-12
 
 Finalizing my data science report
+
+## 2026-03-14
+
+The first day of Spring break. One more term to go until graduation.
