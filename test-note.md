@@ -20,3 +20,7 @@ Finalizing my data science report
 ## 2026-03-14
 
 The first day of Spring break. One more term to go until graduation.
+
+## 2026-03-15
+
+Intern project progress
