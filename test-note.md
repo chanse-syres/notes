@@ -24,3 +24,7 @@ The first day of Spring break. One more term to go until graduation.
 ## 2026-03-15
 
 Intern project progress
+
+## 2026-03-18
+
+Additional TechX work. Planning and researching for MS program. Filled out my March Madness bracket.
