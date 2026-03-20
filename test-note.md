@@ -28,3 +28,7 @@ Intern project progress
 ## 2026-03-18
 
 Additional TechX work. Planning and researching for MS program. Filled out my March Madness bracket.
+
+## 2026-03-19
+
+Just working on a Web Scraping project and charting my navigation routes for graduate school.
