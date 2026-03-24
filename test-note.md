@@ -32,3 +32,7 @@ Additional TechX work. Planning and researching for MS program. Filled out my Ma
 ## 2026-03-19
 
 Just working on a Web Scraping project and charting my navigation routes for graduate school.
+
+## 2026-03-26
+
+Cleaning up my GitHub Repos. Working on some private projects. Getting grad school figured out.
